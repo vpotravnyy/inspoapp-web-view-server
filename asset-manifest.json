@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/inspoapp-web-view-server/static/css/main.e8ffb73f.chunk.css",
-    "main.js": "/inspoapp-web-view-server/static/js/main.0a94ff12.chunk.js",
-    "main.js.map": "/inspoapp-web-view-server/static/js/main.0a94ff12.chunk.js.map",
-    "runtime~main.js": "/inspoapp-web-view-server/static/js/runtime~main.f4f706b6.js",
-    "runtime~main.js.map": "/inspoapp-web-view-server/static/js/runtime~main.f4f706b6.js.map",
-    "static/js/2.718f083f.chunk.js": "/inspoapp-web-view-server/static/js/2.718f083f.chunk.js",
-    "static/js/2.718f083f.chunk.js.map": "/inspoapp-web-view-server/static/js/2.718f083f.chunk.js.map",
-    "index.html": "/inspoapp-web-view-server/index.html",
-    "precache-manifest.2d382f305717a8738e115e8e47c57d0e.js": "/inspoapp-web-view-server/precache-manifest.2d382f305717a8738e115e8e47c57d0e.js",
-    "service-worker.js": "/inspoapp-web-view-server/service-worker.js",
-    "static/css/main.e8ffb73f.chunk.css.map": "/inspoapp-web-view-server/static/css/main.e8ffb73f.chunk.css.map",
-    "static/media/fonts.css": "/inspoapp-web-view-server/static/media/SackersGothicStd-Medium.e7a7c8f6.woff2",
-    "static/media/icon.svg": "/inspoapp-web-view-server/static/media/icon.590b69af.svg"
+    "main.css": "/static/css/main.5bfa1979.chunk.css",
+    "main.js": "/static/js/main.48045dbe.chunk.js",
+    "main.js.map": "/static/js/main.48045dbe.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.884aa245.chunk.js": "/static/js/2.884aa245.chunk.js",
+    "static/js/2.884aa245.chunk.js.map": "/static/js/2.884aa245.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.38c1c4483588b536fa8017d969d3c758.js": "/precache-manifest.38c1c4483588b536fa8017d969d3c758.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5bfa1979.chunk.css.map": "/static/css/main.5bfa1979.chunk.css.map",
+    "static/media/fonts.css": "/static/media/SackersGothicStd-Medium.e7a7c8f6.woff2",
+    "static/media/icon.svg": "/static/media/icon.590b69af.svg"
   }
 }
