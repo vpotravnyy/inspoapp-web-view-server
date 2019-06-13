@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2089570dc14e058fb19156d80b7e6f04",
+    "revision": "f4f8bed985335c69a6487c8f3f993a85",
     "url": "/inspoapp-web-view-server/index.html"
   },
   {
-    "revision": "e3a68e47402b0bb44705",
-    "url": "/inspoapp-web-view-server/static/css/main.8271ac5c.chunk.css"
+    "revision": "8d165e2ec4103d5de852",
+    "url": "/inspoapp-web-view-server/static/css/main.72bfe078.chunk.css"
   },
   {
     "revision": "f937459cdbaeb5888aa5",
     "url": "/inspoapp-web-view-server/static/js/2.12030c69.chunk.js"
   },
   {
-    "revision": "e3a68e47402b0bb44705",
-    "url": "/inspoapp-web-view-server/static/js/main.48045dbe.chunk.js"
+    "revision": "8d165e2ec4103d5de852",
+    "url": "/inspoapp-web-view-server/static/js/main.8eff53a4.chunk.js"
   },
   {
     "revision": "c0ec4a3d49f779034ec1",

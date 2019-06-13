@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/inspoapp-web-view-server/static/css/main.8271ac5c.chunk.css",
-    "main.js": "/inspoapp-web-view-server/static/js/main.48045dbe.chunk.js",
-    "main.js.map": "/inspoapp-web-view-server/static/js/main.48045dbe.chunk.js.map",
+    "main.css": "/inspoapp-web-view-server/static/css/main.72bfe078.chunk.css",
+    "main.js": "/inspoapp-web-view-server/static/js/main.8eff53a4.chunk.js",
+    "main.js.map": "/inspoapp-web-view-server/static/js/main.8eff53a4.chunk.js.map",
     "runtime~main.js": "/inspoapp-web-view-server/static/js/runtime~main.f4f706b6.js",
     "runtime~main.js.map": "/inspoapp-web-view-server/static/js/runtime~main.f4f706b6.js.map",
     "static/js/2.12030c69.chunk.js": "/inspoapp-web-view-server/static/js/2.12030c69.chunk.js",
     "static/js/2.12030c69.chunk.js.map": "/inspoapp-web-view-server/static/js/2.12030c69.chunk.js.map",
     "index.html": "/inspoapp-web-view-server/index.html",
-    "precache-manifest.53280a51489e7ef53a45c1e38b95ec47.js": "/inspoapp-web-view-server/precache-manifest.53280a51489e7ef53a45c1e38b95ec47.js",
+    "precache-manifest.4da41780dd187c542590c5b3e7cafe34.js": "/inspoapp-web-view-server/precache-manifest.4da41780dd187c542590c5b3e7cafe34.js",
     "service-worker.js": "/inspoapp-web-view-server/service-worker.js",
-    "static/css/main.8271ac5c.chunk.css.map": "/inspoapp-web-view-server/static/css/main.8271ac5c.chunk.css.map",
+    "static/css/main.72bfe078.chunk.css.map": "/inspoapp-web-view-server/static/css/main.72bfe078.chunk.css.map",
     "static/media/fonts.css": "/inspoapp-web-view-server/static/media/SackersGothicStd-Medium.e7a7c8f6.woff2",
     "static/media/icon.svg": "/inspoapp-web-view-server/static/media/icon.590b69af.svg"
   }
